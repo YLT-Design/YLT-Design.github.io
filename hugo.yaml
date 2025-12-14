@@ -1,0 +1,5 @@
+baseURL: https://www.yunglin.me/
+languageCode: en-us
+caches:
+  images:
+    dir: :cacheDir/images
